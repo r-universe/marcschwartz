@@ -1,0 +1,10 @@
+[
+  {
+    "package": "BI",
+    "oncran": true
+  },
+  {
+    "package": "WriteXLS",
+    "oncran": true
+  }
+]
